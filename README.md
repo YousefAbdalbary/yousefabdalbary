@@ -1,12 +1,15 @@
 <h1 align="center">Hey 👋 I'm Yousef Abdalbary</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Specialist;Building+Intelligent+Systems" />
+</p>
+
 <div align="center">
   <img src="https://github.com/yousefabdalbary.png" width="130" style="border-radius: 50%;" alt="Yousef's Avatar" />
-  <p><b>AI Engineer | Machine Learning Specialist</b></p>
 </div>
 
 ### 👨‍💻 About Me
-I am a detail-oriented AI Engineer with a strong background in Machine Learning and Computer Vision. I focus on building intelligent, research-driven systems that solve real-world challenges through innovation and scalable design.
+[cite_start]I am a passionate and detail-oriented **AI Engineer** [cite: 5] [cite_start]with hands-on experience in **Machine Learning (ML)**, **Deep Learning (DL)**, and **Computer Vision (CV)**[cite: 5]. [cite_start]I focus on designing, training, and deploying AI-driven solutions [cite: 6] [cite_start]with a strong problem-solving mindset and a focus on research, innovation, and real-world impact.
 
 ### 🛠️ Top Technical Skills
 <div align="center">
@@ -21,15 +24,10 @@ I am a detail-oriented AI Engineer with a strong background in Machine Learning 
   <a href="mailto:yousefabdalbary@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Email" />
   </a>
-  <a href="https://codeforces.com/profile/your_username">
+  <a href="https://codeforces.com/profile/yousefabdalbary">
     <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1f8acb&logoColor=white&style=for-the-badge" height="35" alt="Codeforces" />
   </a>
 </div>
-
-### 🚀 Featured Projects
-* **Research Query Assistant:** A Hybrid RAG system using **Llama 3.3** for high-precision semantic retrieval.
-* **AI Fitness Trainer:** Intelligent virtual trainer using **Pose Estimation** for real-time exercise monitoring.
-* **Mental Health Detection:** Multi-model chatbot using **LSTM and CNN** for therapeutic dialogue support.
 
 ### 📊 Activity & Stats
 <div align="center">
