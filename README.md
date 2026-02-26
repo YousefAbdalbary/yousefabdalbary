@@ -8,15 +8,28 @@
   <img src="https://github.com/yousefabdalbary.png" width="130" style="border-radius: 50%;" alt="Yousef's Avatar" />
 </div>
 
+---
+
 ### 👨‍💻 About Me
-[cite_start]I am a passionate and detail-oriented **AI Engineer** [cite: 5] [cite_start]with hands-on experience in **Machine Learning (ML)**, **Deep Learning (DL)**, and **Computer Vision (CV)**[cite: 5]. [cite_start]I focus on designing, training, and deploying AI-driven solutions [cite: 6] [cite_start]with a strong problem-solving mindset and a focus on research, innovation, and real-world impact.
+
+I am a passionate and detail-oriented **AI Engineer** with hands-on experience in **Machine Learning (ML)**, **Deep Learning (DL)**, and **Computer Vision (CV)**.  
+
+I specialize in designing, training, and deploying AI-driven solutions with a strong problem-solving mindset and a focus on research, innovation, and real-world impact.
+
+I enjoy transforming ideas into scalable intelligent systems and continuously exploring advanced AI architectures and modern deployment strategies.
+
+---
 
 ### 🛠️ Top Technical Skills
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,cpp,mysql,git,github,vscode,anaconda,pycharm" height="50" alt="Technical Skills" />
 </div>
 
+---
+
 ### 📤 Connect & Competitive Programming
+
 <div align="center">
   <a href="https://linkedin.com/in/yousefabdalbary">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
@@ -29,7 +42,10 @@
   </a>
 </div>
 
+---
+
 ### 📊 Activity & Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yousefabdalbary&show_icons=true&theme=dracula&hide_border=false" height="150" alt="Stats" />
   <img src="https://streak-stats.demolab.com?user=yousefabdalbary&theme=dracula&hide_border=false" height="150" alt="Streak" />
