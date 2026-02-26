@@ -25,7 +25,7 @@ I enjoy transforming ideas into scalable intelligent systems and continuously ex
 ### 🛠️ Top Technical Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,cpp,mysql,git,github,docker,fastapi,linux,huggingface,vscode,anaconda,pycharm" height="75" alt="Technical Skills" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,cpp,mysql,git,github,docker,fastapi,linux,huggingface,vscode,anaconda,pycharm" height="95" alt="Technical Skills" />
 </div>
 
 ---
