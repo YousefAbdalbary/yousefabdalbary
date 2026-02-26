@@ -37,8 +37,7 @@ I enjoy transforming ideas into scalable intelligent systems and continuously ex
   <a href="mailto:yousefabdalbary@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Email" />
   </a>
-  <a href="https://codeforces.com/profile/yousefabdalbary">
-    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1f8acb&logoColor=white&style=for-the-badge" height="35" alt="Codeforces" />
+  
   </a>
 </div>
 
