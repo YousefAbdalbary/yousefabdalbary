@@ -1,15 +1,34 @@
 <h1 align="center">Hey 👋 I'm Yousef Abdalbary</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-Expertise-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Research-green?style=for-the-badge">
-</p>
+<div align="center">
+  <img src="https://github.com/yousefabdalbary.png" width="150" style="border-radius: 50%;" alt="Yousef's Avatar" />
+  <p><b>AI Engineer | Machine Learning Enthusiast</b></p>
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousefabdalbary&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefabdalbary&theme=dracula&layout=compact&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,cpp,dart,mysql,git,vscode" height="50" alt="Tech Stack" />
+</div>
+
+###
+
+## 🚀 About Me
+I am a passionate and detail-oriented **AI Engineer** with hands-on experience in **Machine Learning (ML)**, **Deep Learning (DL)**, and **Computer Vision (CV)**[cite: 5]. [cite_start]I focus on designing and deploying AI-driven solutions that have a real-world impact[cite: 6, 7].
+
+* [cite_start]🎓 **Education:** Pursuing a Bachelor of Science in Artificial Intelligence at Delta University with a **GPA of 3.84/4.00**[cite: 11].
+* [cite_start]🔭 **Current Project:** Developing an intelligent educational AI system for my graduation project[cite: 44, 46].
+* [cite_start]🧠 **Interests:** AI Model Optimization, Natural Language Processing, and Computer Vision Applications[cite: 14].
+
+### 🛠️ Featured Projects
+* [cite_start]**Research Query Assistant:** A Hybrid RAG system using **Llama 3.3** for retrieving and summarizing academic insights[cite: 49, 51].
+* [cite_start]**Mental Health Detection:** A multi-model chatbot using **LSTM and CNN** architectures for dialogue support[cite: 55, 58].
+* [cite_start]**AI Fitness Trainer:** An intelligent virtual trainer using **Pose Estimation** for real-time exercise monitoring[cite: 65, 68].
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yousefabdalbary&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefabdalbary&layout=compact&theme=dracula" height="150" />
 </div>
 
 ###
